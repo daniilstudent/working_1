@@ -1,0 +1,6 @@
+userName = input("Какое ваше имя?")
+old = input("Сколько вам лет?")
+town = input("В каком городы вы живете?")
+print (("Имя: ") + userName)
+print (("Возраст: ") + old)
+print ("Место жительства: " + town)
